@@ -21,9 +21,13 @@ An interactive Air Drawing Application that allows users to draw on the screen u
 
 
 ### 🛠️ Technologies Used
+
 Python
+
 OpenCV
+
 MediaPipe
+
 NumPy
 
 
